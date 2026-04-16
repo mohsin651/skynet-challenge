@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights
+*.pth
+
+# TensorBoard logs
+tb_log/
+
+# Dataset (large files)
+urban-reid-dataset/
+
+# Env
+*.egg-info/
+.env
